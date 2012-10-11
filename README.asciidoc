@@ -1,0 +1,3 @@
+= Arquillian Organization
+
+This repository hosts the https://github.com/arquillian/arquillian-organization/wiki[wiki] for the http://arquillian.org[Arquillian] project. The code repository is intentionally empty.
